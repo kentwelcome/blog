@@ -3,4 +3,6 @@ title: About
 permalink: /about/
 ---
 
-Software Developer
+I am a Software Developer.
+
+[#resume](http://resume.kent-tw.info)
